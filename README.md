@@ -50,4 +50,8 @@ Take quizzes as a user
 Login as admin to manage quizzes (if admin panel is implemented)
 
 🎨 Screenshots
-![alt text](<Screenshot 2025-10-25 001756-1.png>) ![alt text](<Screenshot 2025-10-24 235611-1.png>) ![alt text](<Screenshot 2025-10-24 235629-1.png>) ![alt text](<Screenshot 2025-10-24 235649-1.png>) ![alt text](<Screenshot 2025-10-25 001742-1.png>)
+![Sign in](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\signin-page.png)
+![Regisrer](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\register-page.png)
+![log-in](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\login-page.png)
+![user info](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\user-page.png)
+![Quiz](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\quiz-page.png)
