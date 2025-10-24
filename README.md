@@ -46,12 +46,3 @@ The app runs at: http://localhost:3000
 Open the app in your browser
 
 Take quizzes as a user
-
-Login as admin to manage quizzes (if admin panel is implemented)
-
-🎨 Screenshots
-![Sign in](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\signin-page.png)
-![Regisrer](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\register-page.png)
-![log-in](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\login-page.png)
-![user info](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\user-page.png)
-![Quiz](C:\MERN-Quiz-App\Frontend_MERN_Quize_App\screenshots\quiz-page.png)
